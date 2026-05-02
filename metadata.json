@@ -1,0 +1,6 @@
+{
+  "name": "Remix: MedCore Monitor",
+  "description": "A clinical monitoring application that compiles vital signals from smartwatches to monitor chronic diseases, featuring MedGemma as an AI healthcare consultant for personalized insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
